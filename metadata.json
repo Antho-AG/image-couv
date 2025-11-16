@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Editor",
+  "description": "Use text prompts to edit images with Gemini 2.5 Flash Image. Upload an image, describe your changes like 'add a retro filter' or 'make this a book cover', and let AI bring your vision to life.",
+  "requestFramePermissions": []
+}
